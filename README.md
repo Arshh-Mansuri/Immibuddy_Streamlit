@@ -45,6 +45,10 @@ The result is a production-style RAG system with a clean, modular architecture.
 - **PyPDF**
 
 ---
+### 1️⃣ Ingestion (run once)
+- Load PDF documents
+- Split into semantic chunks
+- Generate embeddings
+- Store vectors + metadata in Pinecone
 
-## 📂 Project Structure
 
