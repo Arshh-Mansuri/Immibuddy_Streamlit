@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+
+# LangChain core
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+
+# Vector DB
+pinecone-client
+
+# PDF handling
+pypdf
+
+# OpenAI SDK
+openai
